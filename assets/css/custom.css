@@ -1,0 +1,11 @@
+.home .logo__text {
+  display: none !important;
+}
+
+.home h1.text-4xl.font-extrabold {
+  display: none !important;
+}
+
+h1.text-4xl.font-extrabold {
+  display: none !important;
+}

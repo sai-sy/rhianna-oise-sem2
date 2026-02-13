@@ -64,36 +64,31 @@
 #   weight = 20
 
 [[main]]
-  name = "Home ..."
-  pageRef = "/"
-  weight = 1
-
-[[main]]
   name = "Professionalism ..."
   pageRef = "professionalism"
-  weight = 2
+  weight = 1
 
 [[main]]
   name = "Diversity ..."
   pageRef = "diversity-and-equity"
-  weight = 3
+  weight = 2
 
 [[main]]
   name = "Involvement ..."
   pageRef = "involvement-in-school-community-life"
-  weight = 4
+  weight = 3
 
 [[main]]
   name = "Understanding ..."
   pageRef = "understanding-curriculum-and-the-learner"
-  weight = 5
+  weight = 4
 
 [[main]]
   name = "Assessment ..."
   pageRef = "assessment-planning-and-instruction"
-  weight = 6
+  weight = 5
 
 [[main]]
   name = "Classroom ..."
   pageRef = "classroom-management"
-  weight = 7
+  weight = 6
