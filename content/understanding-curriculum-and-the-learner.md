@@ -4,6 +4,8 @@ I believe that effective teaching begins with understanding who students are, wh
 The artefacts in this section reflect my commitment to responsive teaching that connects curriculum to real lives and real places.
 
 ## Artefact 1: Grade 2 Make Your Own Animal Science Unit
+![](/imgs/img7.jpg)
+https://drive.google.com/drive/folders/1eE1t2XAWdTnuxK3-ZT6pj3dqT_6hwlY3?usp=sharing
 
 This artefact represents my Grade 2 science unit in which students designed their own animals based on what they learned about animal needs, habitats, and adaptations. The unit took place during my practicum placement and was taught over a series of lessons that explored how animals survive in different environments. Students learned about food, shelter, movement, and protection before creating an original animal that could live in a specific habitat.
 How it happened was through a combination of class discussions, videos, drawing, writing, and hands-on activities that allowed students to explore real animals and then apply their knowledge creatively. The players involved were the Grade 2 students, my mentor teacher, and myself as the teacher candidate. The most significant part of this experience was seeing how engaged students became when they were able to connect science content to something they genuinely loved, which was animals and imaginative creation.

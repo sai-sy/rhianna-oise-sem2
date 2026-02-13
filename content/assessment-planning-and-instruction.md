@@ -4,6 +4,8 @@ In this section, I showcase how I design, implement, and adjust instruction to m
 
 ## Artefact 1: Grade 2 Math Units (Addition, Subtraction, and Data Management)
 
+https://drive.google.com/drive/folders/1A6ha3_WYFtCBTUsoc2Y4BSHRwSogB2zP?usp=sharing
+
 This artefact represents the Grade 2 math units I taught during my practicum, focusing on addition/subtraction, and data management. These units included lessons on number strategies, problem solving, and collecting and representing data. The lessons were taught over multiple days and were continuously adjusted based on student understanding and the feedback I received from my Associate Teacher.
 How it happened was through daily lesson planning, teaching, observing student work, and meeting with my AT to reflect on what was working and what needed to change. The players involved were the students, my AT, and myself. The most significant part of this experience was learning how professional teaching involves constant adjustment rather than sticking rigidly to a plan.
 
